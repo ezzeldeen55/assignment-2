@@ -1,0 +1,5 @@
+Data Types:
+String name = 'Ezz'
+int age = 10
+double price = 4.5
+bool hasDiscount = false2

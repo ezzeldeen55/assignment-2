@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="239645ea-3967-44c2-9abe-595d47768b5b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DartProblemsView" group-by-severity="false" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000188902327098" />
+      <entry key="S2" value="1.0660829002106091" />
+      <entry key="S5" value="1.367042946097798" />
+      <entry key="S10" value="1.7538557089967233" />
+      <entry key="S30" value="2.391870985256738" />
+      <entry key="S60" value="2.6793575550966717" />
+      <entry key="M2" value="3.1268905090068606" />
+      <entry key="M5" value="4.791310854982622" />
+      <entry key="M10" value="6.524669694663367" />
+      <entry key="M15" value="7.42184736253261" />
+      <entry key="M30" value="8.55725200325952" />
+      <entry key="H1" value="9.235309533142406" />
+      <entry key="H2" value="9.619663577089607" />
+      <entry key="H4" value="9.989641323164271" />
+      <entry key="D1" value="23.776506538754134" />
+      <entry key="W1" value="42.848691438974484" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.0701436935289463E-115" />
+      <entry key="S5" value="1.337827739718483E-46" />
+      <entry key="S10" value="1.1566450361794156E-23" />
+      <entry key="S30" value="2.2615179168749218E-8" />
+      <entry key="S60" value="1.5038344047384075E-4" />
+      <entry key="M2" value="0.012263092614583023" />
+      <entry key="M5" value="0.17196497594188978" />
+      <entry key="M10" value="0.4146865996652048" />
+      <entry key="M15" value="0.5560920261795482" />
+      <entry key="M30" value="0.7457157810986356" />
+      <entry key="H1" value="0.8635483663921986" />
+      <entry key="H2" value="0.9292730311335841" />
+      <entry key="H4" value="0.9639880866139291" />
+      <entry key="D1" value="0.9939059208980644" />
+      <entry key="W1" value="0.9991271349130217" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0015430494372331584" />
+      <entry key="MS500" value="0.2739529417120121" />
+      <entry key="S2" value="0.7267852018917165" />
+      <entry key="S5" value="1.008475865323906" />
+      <entry key="S10" value="1.4265117488052335" />
+      <entry key="S30" value="2.2172092182383025" />
+      <entry key="S60" value="2.5802584809003735" />
+      <entry key="M2" value="3.083152512341052" />
+      <entry key="M5" value="4.930641073181042" />
+      <entry key="M10" value="6.916860242841179" />
+      <entry key="M15" value="7.9606808593819185" />
+      <entry key="M30" value="9.292863127337748" />
+      <entry key="H1" value="10.093355398192735" />
+      <entry key="H2" value="10.546060838606147" />
+      <entry key="H4" value="10.952158523812535" />
+      <entry key="D1" value="24.77015941496609" />
+      <entry key="W1" value="43.847781667085876" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LWHxB4kZ1XomhkDBbvntRiuanJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Dart Command Line App.Assignmet1.dart.executor": "Run",
+    "Dart Command Line App.loops.dart.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/victus/IdeaProjects/basics.dart",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\victus\Downloads\Assignmet2" />
+      <recent name="C:\Users\victus\Downloads" />
+      <recent name="C:\Users\victus\IdeaProjects\basics.dart" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Test.Tests in basics.dart">
+    <configuration name="basics.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/basics.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="basics.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/basics.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loops.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/loops.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in basics.dart" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <option name="filePath" value="$PROJECT_DIR$" />
+      <option name="scope" value="FOLDER" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in basics.dart" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <option name="filePath" value="$PROJECT_DIR$" />
+      <option name="scope" value="FOLDER" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="239645ea-3967-44c2-9abe-595d47768b5b" name="Changes" comment="" />
+      <created>1793563154874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793563154874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
